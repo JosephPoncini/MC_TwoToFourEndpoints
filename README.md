@@ -8,6 +8,6 @@
 
  // 
 
-// Peer Reviewed By:
+// Peer Reviewed By: Jared Ly
 
-// Peer Review Comments:
+// Peer Review Comments: Code looks great and it runs as intended, although the wakeup time could be revised to only accept integers, other than that great job!
