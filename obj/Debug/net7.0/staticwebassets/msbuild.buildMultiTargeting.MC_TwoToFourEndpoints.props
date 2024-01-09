@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MC_TwoToFourEndpoints.props" />
+</Project>
